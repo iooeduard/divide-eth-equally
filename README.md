@@ -1,2 +1,3 @@
-# divide-eth-equally
-Smart contract that divides eth equally between it's addresses.
+# Share Ether Equally Between Addresses
+
+Smart Contract used to share an given amount of ether between all addresses equally.
